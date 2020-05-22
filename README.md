@@ -8,7 +8,7 @@ DotVVM is a ASP.NET framework that allows us to create web applications using th
 
 ## Tutorial:
 
-- [Web forms with DotVVM controls](https://dev.to/esdanielgomez/steps-to-create-an-mvvm-application-model-view-view-model-with-dotvvm-and-asp-net-core-fm2).
+- [Web forms with DotVVM controls](https://dev.to/dotvvm/web-forms-with-dotvvm-controls-6bk).
 - [DotVVM and ASP.NET Core: Implementing CRUD operations](https://dev.to/esdanielgomez/dotvvm-and-asp-net-core-implementing-crud-operations-l2e).
 
 ## Autor
